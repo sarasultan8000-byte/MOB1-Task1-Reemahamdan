@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="full_name">Reema N. Hamdan</string>
+    <string name="job_title">Expert Android Developer</string>
+    <string name="phone_number">+970 599 195 534</string>
+    <string name="social_handle">\@reema.hamdan</string>
+    <string name="email_address">reema.hamdan@android.com</string>
+</resources>
